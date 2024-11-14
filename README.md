@@ -1,2 +1,2 @@
 # pigier
-Pour le formation de Pigier
+Pour la formation de Pigier
